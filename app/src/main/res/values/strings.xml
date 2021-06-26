@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ComposeColumn</string>
+    <string name="title_activity_wxmsg_item">WXMsgItemActivity</string>
+    <string name="title_activity_padding">PaddingActivity</string>
+    <string name="title_activity_modifier">ModifierActivity</string>
+    <string name="title_activity_remember">RememberActivity</string>
+    <string name="title_activity_toggleable">ToggleableActivity</string>
+</resources>
